@@ -1,0 +1,13 @@
+{
+  "name": "quoke",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "jest.cmd ./quoke/quoke.test.ts",
+    "test": "jest.cmd ./main/main.test.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
